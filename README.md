@@ -20,7 +20,7 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Google Data Analytics](https://coursera.org/share/e9455f290efc8e0200e6a510d90797ad)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/YQUFWFP9D6YJ)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python for Data Science, AI & Development
-](https://coursera.org/share/592b7f57c0c6fa60cb6ff94b4765a9a0)
-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) SQL Advanced](https://www.hackerrank.com/certificates/iframe/3361f85c49f9)
+](https://www.coursera.org/account/accomplishments/certificate/LDAUCMPN6BFH)
+- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) SQL Advanced](https://www.hackerrank.com/certificates/3361f85c49f9)
